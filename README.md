@@ -4,7 +4,7 @@ A single-file, responsive landing page for a fitness tracking app, built with pl
 
  Live demo: (see [Deployment](#deployment) below)_
 
-• https://workwithmercyjerome-lang.github.io/jerome-walker/
+ https://workwithmercyjerome-lang.github.io/jerome-walker/
 ---
 
 ## Overview
@@ -71,6 +71,7 @@ This is a static, dependency-free page, so there's nothing to install.
 
 ## Deployment
 
-- **GitHub Pages**:(https://github.com/workwithmercyjerome-lang)
+- **GitHub Pages**:
+- https://github.com/workwithmercyjerome-lang
 
-https://workwithmercyjerome-lang.github.io/jerome-walker/
+- https://workwithmercyjerome-lang.github.io/jerome-walker/
