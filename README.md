@@ -70,6 +70,6 @@ This is a static, dependency-free page, so there's nothing to install.
 
 ## Deployment
 
-- **GitHub Page**: 
+- **GitHub Pages**:(https://github.com/workwithmercyjerome-lang)
 
 
